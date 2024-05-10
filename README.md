@@ -7,6 +7,6 @@ this time, you will be able to sponsor gas fees for your users.
 
 ## How To Use This Tutorial
 
-To use this tutorial, you should be already completed the previous one, which can be found [here](https://github.com/SimonYuvarlak/Working-With-User-Controlled-Wallets.git)
+To use this tutorial, you should be already completed the previous one, which can be found [here](https://github.com/Rise-In/Working-With-User-Controlled-Wallets)
 
 You can read the lessons based on their numbers. At the end you will find a task.
